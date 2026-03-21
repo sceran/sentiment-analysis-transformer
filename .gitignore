@@ -1,6 +1,3 @@
-# Dataset
-Assignment - 1 Dataset/
-
 # Model checkpoints
 *.pt
 *.bin
