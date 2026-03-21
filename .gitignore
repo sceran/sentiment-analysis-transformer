@@ -17,3 +17,4 @@ wandb/
 
 # OS
 .DS_Store
+pre-run-notebook/
