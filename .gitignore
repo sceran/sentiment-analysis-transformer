@@ -1,0 +1,19 @@
+# Dataset
+Assignment - 1 Dataset/
+
+# Model checkpoints
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# WANDB
+wandb/
+
+# OS
+.DS_Store
