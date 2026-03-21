@@ -41,5 +41,5 @@
 
 ## Tracking
 
-- **WANDB:** [Project Dashboard](https://wandb.ai/) (public)
+- **WANDB:** [Project Dashboard](https://wandb.ai/sceran/sentiment-analysis-transformer?nw=nwusersceran) (public)
 - **Evaluation metric:** F1-macro (primary), accuracy, F1-weighted
