@@ -1,7 +1,6 @@
 # Sentiment Analysis of Customer Service Conversations
 
 **Course:** DI 725 - Transformers and Attention-Based Deep Networks
-**Student Number:** 2786028
 
 ## Task
 
@@ -34,8 +33,12 @@
 ├── Assignment - 1 Dataset/
 │   ├── train.csv
 │   └── test.csv
+├── Report/
+│   ├── DI_725_Assignment_1.pdf
+│   ├── Sentiment_Analysis_RoBERTa_IEEE.docx
+│   ├── Sentiment_Analysis_RoBERTa_IEEE.pdf
+│   └── wandbreport - sentiment-analysis-transformer | Weights & Biases.pdf
 ├── sentiment-analysis.ipynb
-├── report.pdf
 └── README.md
 ```
 
